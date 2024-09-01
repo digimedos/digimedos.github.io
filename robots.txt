@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digimedos.github.io/sitemap.xml
